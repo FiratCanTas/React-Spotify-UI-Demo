@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Playlist() {
-    const list = ["Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving"]
+    const list = ["Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving","Deep Diving"]
 
   return (
     <nav className='mx-6 mt-2 py-2 flex-auto border-t border-white border-opacity-20 overflow-auto'>
