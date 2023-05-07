@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/FiratCanTas/Spotify-UI-Demo">
+  <a href="https://open.spotify.com/intl-tr">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/Spotify-icon-png-rgb-green.png" alt="Logo" width="80" height="80">
   </a>
 
